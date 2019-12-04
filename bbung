@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head> 
+
+    <title>Formatierung</title>
+    <meta charset="utf-8">
+    <style>
+    h1 {
+      font-style: italic;
+      text-align: ceter;
+      color: white
+      font-weight: bold;
+
+</head>
+  <body>
+
+}
+<body>
+</html>
