@@ -1,0 +1,15 @@
+<style> body { background-color: #FF0000; }
+h1 {color: #FFFFFF; text-align: center; font-style: italic;
+font-weight: bold;}
+div {background-color: #FFFF00; width: 250px}
+p {font-size: 200%; text-align: left;}
+</style>
+</head>
+<body>
+<h1>Überschrift</h1>
+<div><p>
+Ein Paragraph mit etwas Text.
+Die Auswahl von Vorder- und Hintergrundfarbe
+ist nicht sehr glücklich.
+</p></div>
+</body>
